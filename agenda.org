@@ -1,0 +1,6 @@
+* work
+** automation tool
+*** TODO discution meeting
+SCHEDULED: <2015-06-23 二>
+*** TODO design graphviz algorithm
+DEADLINE: <2015-06-27 六 17:30> SCHEDULED: <2015-06-23 二 09:30>
